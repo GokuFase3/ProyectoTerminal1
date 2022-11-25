@@ -1,0 +1,3 @@
+Codigo que busca repetir lo que que llegue a traves de
+los puertos Tx y Rx desde el arduino al modulo WiFi
+para repetir el texto que recibio
