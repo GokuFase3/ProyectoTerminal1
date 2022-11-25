@@ -1,0 +1,7 @@
+Codigo que busca leer el UID de una tarjeta NFC
+y mandarlo a traves de los puertos TX y Rx (2,3) para que
+despues el modulo WiFi lea la infromacion y lo mande
+a traves de la internet a la base de datos
+Forma parte de la ultima parte del proyevto que busca unificar
+los codigos en los cuales fue dividido el problema
+inicial del proyecto

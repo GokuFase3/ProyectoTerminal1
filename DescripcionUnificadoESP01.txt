@@ -1,0 +1,7 @@
+Codigo que pretende recibir un UID a traves de los
+puertos Tx y Rx que mandara el arduino uno cuando
+lea la tarjeta NFC. El modulo WiFi es el encargado de subir
+el UID una vez que lo reciba
+Forma parte del codigo unificado que es la ultima parte del
+proyecto, en la cual se juntas los codigos en los cuales
+fue dividido la problemarica inicial del preoyecto

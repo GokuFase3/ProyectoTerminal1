@@ -1,0 +1,3 @@
+Codigo de prueba que recibe datos del monitor serial de 
+Arduino para que los mande a los pines 2 y 3 del serial
+del modulo Wifi para que lea la informacion
